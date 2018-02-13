@@ -6,7 +6,7 @@ Enter min support in %: 50
 Enter min confidence in %: 50
 
 Frequent Item Set:
-
+```
 pen
 cheese
 milk
@@ -16,8 +16,9 @@ cheese milk
 cheese juice
 milk juice
 cheese milk juice
-
+```
 Associations with confidence greater than 0.5
+```
 ['pen']-->['cheese']
 ['cheese']-->['pen']
 ['milk']-->['cheese']
@@ -32,3 +33,4 @@ Associations with confidence greater than 0.5
 ['milk']-->['cheese', 'juice']
 ['cheese']-->['milk', 'juice']
 ['juice']-->['cheese', 'milk']
+```
