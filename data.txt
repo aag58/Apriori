@@ -1,0 +1,13 @@
+1001 ink
+1001 pen
+1001 cheese
+1001 bag
+1002 milk
+1002 pen
+1002 juice
+1002 cheese
+1003 milk
+1003 juice
+1004 juice
+1004 milk
+1004 cheese
