@@ -1,10 +1,10 @@
 command to execute 
 
 py apriori.py data.txt
-
+```
 Enter min support in %: 50
 Enter min confidence in %: 50
-
+```
 Frequent Item Set:
 ```
 pen
